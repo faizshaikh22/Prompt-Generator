@@ -1,0 +1,6 @@
+streamlit
+langchain
+langchain-openai
+langchain_google_genai
+pyperclip
+shelve3
